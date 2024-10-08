@@ -1,0 +1,3 @@
+
+	Manufacturer: Oracle Corporation
+Total RAM: 1963MB Usada: 188MB Libre: 1516MB
